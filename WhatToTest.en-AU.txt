@@ -1,0 +1,1 @@
+Please test creating reports, entering electrical test results, checking PASS, FAIL, and Review Required outcomes, generating multi-page PDF reports, previewing and sharing PDFs, and reopening saved reports from History.
